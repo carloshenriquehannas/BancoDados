@@ -1,4 +1,7 @@
 # BancoDados
+Atividade prática da disciplina de Banco de Dados, para familiarização da linguagem SQL.
+
+## Trabalho Final
 Implementação, de 3 formas diferentes (modelo entidade-relacionamento, modelo relacional e linguagem SQL) de um álbum de figurinhas virtual. Um determinado usuário é capaz de ser administrador da página ou um colecionador - ambos capazes de realizar determinadas ações.
 
 O administrador é capaz de cadastrar/remover álbuns, figurinhas e bancas no sistema. Além disso ele é capaz de banir colecionadores, que venham a descumprir as regras do sistema.
